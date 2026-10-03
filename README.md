@@ -2,13 +2,18 @@
 
 > **Read-only archive of released versions of velcis/super-sticky.** Not for installation: use [Packagist](https://packagist.org/packages/velcis/super-sticky) or the [upstream repository](https://github.com/velcis/super-sticky).
 
-**0** versions archived · Latest: [`v0.1.0-beta.9`](https://github.com/flarchive/velcis-super-sticky/tree/archive/v0.1.0-beta.9) · License: `MIT` · Flarum: `^0.1.0-beta.9`
+**6** versions archived · Latest: [`v0.1.0-beta.9`](https://github.com/flarchive/velcis-super-sticky/tree/archive/v0.1.0-beta.9) · License: `MIT` · Flarum: `^0.1.0-beta.9`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v0.1.0-beta.3` | 2015-11-02 | `^0.1.0-beta.3` | [Browse](https://github.com/flarchive/velcis-super-sticky/tree/archive/v0.1.0-beta.3) |
+| `v0.1.0-beta.5` | 2016-03-29 | `^0.1.0-beta.5` | [Browse](https://github.com/flarchive/velcis-super-sticky/tree/archive/v0.1.0-beta.5) |
+| `v0.1.0-beta.6` | 2016-10-19 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/velcis-super-sticky/tree/archive/v0.1.0-beta.6) |
+| `v0.1.0-beta.7` | 2017-07-22 | `^0.1.0-beta.7` | [Browse](https://github.com/flarchive/velcis-super-sticky/tree/archive/v0.1.0-beta.7) |
+| `v0.1.0-beta.8` | 2018-11-27 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/velcis-super-sticky/tree/archive/v0.1.0-beta.8) |
+| `v0.1.0-beta.9` | 2019-06-24 | `^0.1.0-beta.9` | [Browse](https://github.com/flarchive/velcis-super-sticky/tree/archive/v0.1.0-beta.9) |
 
 Catalog entry: [packages/velcis-super-sticky.json](https://github.com/flarchive/archive-index/blob/main/packages/velcis-super-sticky.json)
 
